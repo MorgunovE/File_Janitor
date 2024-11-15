@@ -1,0 +1,16 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/File Janitor/*
+!/File Janitor/task/
+/File Janitor/task/*
+!/File Janitor/task/file-janitor.sh
